@@ -23,6 +23,8 @@ My dream is to become a Tech-Lead when I become senior so I can teach people who
 <img src="https://github.com/buildkite/emojis/raw/main/img-buildkite-64/xbox.png" width="20" height="20"> <img src="https://github.com/buildkite/emojis/raw/main/img-apple-64/1f5a5-fe0f.png" width="20" height="20"> My gaming platforms are XBOX and PC!
 <br>
 <br>
+![Kisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=JPsantosdev&show_icons=true&theme=radical)
+
 
 # These are the projects I'm currently working!
 
