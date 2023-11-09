@@ -10,11 +10,15 @@ I am a wanna-be developer working through my second college degree. I am bachelo
 My favorite frameworks and Language are:
 
 <img src="https://github.com/buildkite/emojis/raw/main/img-buildkite-64/angular.png" width="15" height="15"> Angular
+<br>
 <img src="https://github.com/buildkite/emojis/raw/main/img-buildkite-64/dotnet.png" width="15" height="15"> <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/csharp.png" width="15" height="15"> C#/.NET Core
+<br>
 <img src="https://github.com/buildkite/emojis/raw/main/img-buildkite-64/csharp.png" width="10" height="15"> Entity Framework
+<br>
 <img src="https://github.com/buildkite/emojis/raw/main/img-buildkite-64/java.png" width="10" height="15"> Java
+<br>
 <img src="https://github.com/buildkite/emojis/raw/main/img-buildkite-64/typescript.png" width="10" height="10"> TypeScript
-
-
+<br>
+<br>
 <img src="https://github.com/buildkite/emojis/raw/main/img-buildkite-64/xbox.png" width="15" height="15"> <img src="https://github.com/buildkite/emojis/raw/main/img-apple-64/1f5a5-fe0f.png" width="15" height="15"> My gaming platforms are XBOX and PC!
 
