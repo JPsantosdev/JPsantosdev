@@ -24,6 +24,7 @@ My dream is to become a Tech-Lead when I become senior so I can teach people who
 <br>
 <br>
 ![Kisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=JPsantosdev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPSantosdev&layout=compact)
 
 
 # These are the projects I'm currently working!
