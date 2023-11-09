@@ -13,7 +13,7 @@ My favorite frameworks and Language are:
 
 ![image](https://github.com/buildkite/emojis/raw/main/img-buildkite-64/dotnet.png) ![image](https://github.com/buildkite/emojis/blob/main/img-buildkite-64/csharp.png) C#/.NET Core
 
-![image](https://github.com/buildkite/emojis/blob/main/img-buildkite-64/csharp.png) Entity Framework
+<img src:"https://github.com/buildkite/emojis/blob/main/img-buildkite-64/csharp.png" width:"5" height:"5"> Entity Framework
 
 ![image](https://github.com/buildkite/emojis/raw/main/img-buildkite-64/java.png) Java
 
