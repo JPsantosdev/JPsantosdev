@@ -1,7 +1,7 @@
 # Welcome! I'm Kisa!
 ![image](https://github.com/JPsantosdev/JPsantosdev/assets/127047209/f395554b-c798-473d-a5b8-600ad72e5898)
 
-Hello! I am Kisa, a 23 years old transgender girl from Belém, Pará (BRASIL). My pronouns are She/Her but I am also comfortable with They/Them. 
+Hello! I am Kisa, a 23 years old transgender girl from Belém, Pará (BRAZIL). My pronouns are She/Her but I am also comfortable with They/Them. 
 
 I am a wanna-be developer working through my second college degree. I am bachelor in Industrial Engineering and I am currently studying Software Engineering. My main skills involve full-stack web-development using Angular and APIs. I have great talents for problem solving and team-work. I am extremely perfectionist towards my own work and I am always looking for ways to improve. I have no fear making questions and always enjoy to have input from more experienced developers. My current aspirations are to work on QA or Web Development. 
 
