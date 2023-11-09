@@ -3,7 +3,7 @@
 
 Hello! I am Kisa, a 23 years old transgender girl from Belém, Pará (BRAZIL). My pronouns are She/Her but I am also comfortable with They/Them. 
 
-I am a wanna-be developer working through my second college degree. I am bachelor in Industrial Engineering and I am currently studying Software Engineering. My main skills involve full-stack web-development using Angular and APIs. I have great talents for problem solving and team-work. I am extremely perfectionist towards my own work and I am always looking for ways to improve. I have no fear making questions and always enjoy to have input from more experienced developers. My current aspirations are to work on QA or Web Development. 
+I am a junior developer working through my second college degree. I am bachelor in Industrial Engineering and I am currently studying Software Engineering. My main skills involve full-stack web-development using Angular and APIs. I have great talents for problem solving and team-work. I am extremely perfectionist towards my own work and I am always looking for ways to improve. I have no fear making questions and always enjoy to have input from more experienced developers. My current aspirations are to work on QA or Web Development. 
 
 My dream is to become a Tech-Lead when I become senior so I can teach people who were also like me. I am always happy to work with others in order to reach shared objectives. I think technology paves the future, and for that reason we must treat it carefully as a tool for problem solving, not as a tool to replace humanity. 
 
