@@ -9,12 +9,12 @@ I am a wanna-be developer working through my second college degree. I am bachelo
 
 My favorite frameworks and Language are:
 
-<img src="https://github.com/buildkite/emojis/raw/main/img-buildkite-64/angular.png" width="10" height="10"> Angular
-<img src="https://github.com/buildkite/emojis/raw/main/img-buildkite-64/dotnet.png" width="10" height="10"> <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/csharp.png" width="10" height="10"> C#/.NET Core
-<img src="https://github.com/buildkite/emojis/raw/main/img-buildkite-64/csharp.png" width="10" height="10"> Entity Framework
-<img src="https://github.com/buildkite/emojis/raw/main/img-buildkite-64/java.png" width="10" height="10"> Java
+<img src="https://github.com/buildkite/emojis/raw/main/img-buildkite-64/angular.png" width="15" height="15"> Angular
+<img src="https://github.com/buildkite/emojis/raw/main/img-buildkite-64/dotnet.png" width="15" height="15"> <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/csharp.png" width="15" height="15"> C#/.NET Core
+<img src="https://github.com/buildkite/emojis/raw/main/img-buildkite-64/csharp.png" width="10" height="15"> Entity Framework
+<img src="https://github.com/buildkite/emojis/raw/main/img-buildkite-64/java.png" width="10" height="15"> Java
 <img src="https://github.com/buildkite/emojis/raw/main/img-buildkite-64/typescript.png" width="10" height="10"> TypeScript
 
 
-<img src="https://github.com/buildkite/emojis/raw/main/img-buildkite-64/xbox.png" width="10" height="10"> <img src="https://github.com/buildkite/emojis/raw/main/img-apple-64/1f5a5-fe0f.png" width="10" height="10"> My gaming platforms are XBOX and PC!
+<img src="https://github.com/buildkite/emojis/raw/main/img-buildkite-64/xbox.png" width="15" height="15"> <img src="https://github.com/buildkite/emojis/raw/main/img-apple-64/1f5a5-fe0f.png" width="15" height="15"> My gaming platforms are XBOX and PC!
 
