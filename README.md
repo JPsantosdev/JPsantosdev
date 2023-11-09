@@ -21,4 +21,22 @@ My favorite frameworks and Language are:
 <br>
 <br>
 <img src="https://github.com/buildkite/emojis/raw/main/img-buildkite-64/xbox.png" width="20" height="20"> <img src="https://github.com/buildkite/emojis/raw/main/img-apple-64/1f5a5-fe0f.png" width="20" height="20"> My gaming platforms are XBOX and PC!
+<br>
+<br>
+These are the projects I'm currently working!
 
+  <ul list-style="none">
+    <a href="https://github.com/JPsantosdev/angular-blog-project"> Angular based blog </a>
+  </ul>
+  <ul list-style="none">
+    <a href="https://github.com/JPsantosdev/angularpsn"> Angular based PSN project </a>
+  </ul>
+  <ul list-style="none">
+    <a href="https://github.com/JPsantosdev/dioAPIprojectSantander2023"> Java based API project for storing information</a>    
+  </ul>
+  <ul list-style="none">
+    <a href="https://github.com/JPsantosdev/FlaskFinance"> Stocks portfolio made with Flask </a>    
+  </ul>
+  <ul>
+    <a href="https://github.com/JPsantosdev/trilha-net-api-desafio-main"> Entity Framework based API (C#)</a>
+  </ul>
