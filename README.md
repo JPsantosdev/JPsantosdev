@@ -26,17 +26,25 @@ My favorite frameworks and Language are:
 These are the projects I'm currently working!
 
   <ul list-style="none">
+    <img src="https://github.com/buildkite/emojis/raw/main/img-buildkite-64/typescript.png" width="20" height="20"> 
+    <img src="https://github.com/buildkite/emojis/raw/main/img-buildkite-64/angular.png" width="20" height="20">
     <a href="https://github.com/JPsantosdev/angular-blog-project"> Angular based blog </a>
   </ul>
   <ul list-style="none">
+    <img src="https://github.com/buildkite/emojis/raw/main/img-buildkite-64/typescript.png" width="20" height="20"> 
+    <img src="https://github.com/buildkite/emojis/raw/main/img-buildkite-64/angular.png" width="20" height="20">
     <a href="https://github.com/JPsantosdev/angularpsn"> Angular based PSN project </a>
   </ul>
   <ul list-style="none">
+   <img src="https://github.com/buildkite/emojis/raw/main/img-buildkite-64/java.png" width="20" height="20"> 
     <a href="https://github.com/JPsantosdev/dioAPIprojectSantander2023"> Java based API project for storing information</a>    
   </ul>
   <ul list-style="none">
+    <img src="https://github.com/buildkite/emojis/raw/main/img-buildkite-64/python.png" width="20" height="20"> 
     <a href="https://github.com/JPsantosdev/FlaskFinance"> Stocks portfolio made with Flask </a>    
   </ul>
   <ul>
+    <img src="https://github.com/buildkite/emojis/raw/main/img-buildkite-64/dotnet.png" width="20" height="20">
+    <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/csharp.png" width="20" height="20">
     <a href="https://github.com/JPsantosdev/trilha-net-api-desafio-main"> Entity Framework based API (C#)</a>
   </ul>
