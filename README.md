@@ -11,7 +11,7 @@ My favorite frameworks and Language are:
 
 ![image](https://github.com/JPsantosdev/JPsantosdev/assets/127047209/ce13fcea-b255-48d5-bd48-293396ae5e71) Angular
 
-![image](https://github.com/buildkite/emojis/raw/main/img-buildkite-64/dotnet.png) https://github.com/buildkite/emojis/blob/main/img-buildkite-64/csharp.png C#/.NET Core
+![image](https://github.com/buildkite/emojis/raw/main/img-buildkite-64/dotnet.png) ![image](https://github.com/buildkite/emojis/blob/main/img-buildkite-64/csharp.png) C#/.NET Core
 
 ![image](https://github.com/buildkite/emojis/blob/main/img-buildkite-64/csharp.png) Entity Framework
 
