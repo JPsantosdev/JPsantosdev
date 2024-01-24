@@ -53,7 +53,7 @@ My dream is to become a Tech-Lead when I become senior so I can teach people who
   <ul>
     <img src="https://github.com/buildkite/emojis/raw/main/img-buildkite-64/dotnet.png" width="20" height="20">
     <img src="https://github.com/buildkite/emojis/blob/main/img-buildkite-64/csharp.png" width="20" height="20">
-    <a href="https://github.com/JPsantosdev/ASPNET"> Entity Framework + ASP.NET MVC Application Learning Project (C#)</a>
+    <a href="https://github.com/JPsantosdev/ASP.NETmvc"> Entity Framework + ASP.NET MVC Application Learning Project (C#)</a>
   </ul>
 
   # My hobbies are:
