@@ -1,5 +1,6 @@
 # Welcome! I'm Kisa!
-![image](https://github.com/JPsantosdev/JPsantosdev/assets/127047209/f395554b-c798-473d-a5b8-600ad72e5898)
+![image](https://github.com/JPsantosdev/JPsantosdev/assets/127047209/419339ae-9274-4a33-8d50-f7efe8956dc1)
+
 
 Hello! I am Kisa, a 23 years old transgender girl from Belém, Pará (BRAZIL). My pronouns are She/Her but I am also comfortable with They/Them. 
 
